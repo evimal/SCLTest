@@ -1,4 +1,3 @@
 Document Added at B1
 Update1
-Update2
-Update3
+Removed Update 2 & 3 - Upd4
